@@ -21,4 +21,3 @@ python -m pytest tests/test_core.py
 ```sh
 python main.py
 ```
-6. 
