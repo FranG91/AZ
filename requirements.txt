@@ -1,0 +1,6 @@
+requests
+bs4
+beautifulsoup4
+pandas
+pytest
+requests-mock
